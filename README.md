@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Joel-max-eng
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning computer technology as a course in maseno university...
+- 👋 Hi, I’m @Joel Otachi
+- 👀 I’m a front-end web developer
+- 🌱 Currently a student in technology field.
 - 💞️ I’m looking to collaborate on with as many people as possible...
-- 📫 How to reach me my email joelotachi@gmail.com , nyanchokajoe@gmail.com or whatsup +254 113368690...
+- 📫 Reach me via email joelotachi@gmail.com
 
 <!---
-Joel-max-eng/Joel-max-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Joel Otachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
