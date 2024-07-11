@@ -2,7 +2,7 @@
 - 👀 I’m a web developer.
 - 🌱 Currently a student in technology field and Avid learner.
 - 💞️ I’m looking to collaborate on with as many people as possible...
-- 📫 Reach me via email joelotachi@gmail.com
+- 📫 Reach me via email i.geekytechie@gmail.com
 - My Personal Website here https://joel-max-eng.github.io/Joel_Otachi/
 - Get me at linkedin we connect www.linkedin.com/in/joel-otachi-166691296
 
