@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Joel Otachi
-- 👀 I’m a web developer.
-- 🌱 Currently a student in technology field and Avid learner.
+- 👋 Hi, I’m Joel Otachi Nyanchoka.
+- 🌱A Computer Technology and Science Student & an avid learner.
+- Am geek Techie more about me can be found below links personal website and Linkedln
 - 💞️ I’m looking to collaborate on with as many people as possible...
 - 📫 Reach me via email i.geekytechie@gmail.com
 - My Personal Website here https://joel-max-eng.github.io/Joel_Otachi/
