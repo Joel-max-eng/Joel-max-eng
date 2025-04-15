@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on with as many people as possible.
 - 📫 Reach me via email i.geekytechie@gmail.com
 - My Personal Website here https://joel-max-eng.github.io/Joel_Otachi/
-- Get me at linkedin we connect www.linkedin.com/in/joel-otachi-166691296
+- Get me at linkedin we connect www.linkedin.com/in/joel-otachi-03037535b
 <!---
 Joel Otachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
