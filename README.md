@@ -11,7 +11,24 @@
 
 ## About me
 
-BSc Computer Technology graduate, now pursuing a Master's in Computer Science with a research focus on Natural Language Processing and synthetic data generation. I sit at the intersection of research and engineering — equally comfortable designing NLP pipelines as I am shipping production software. Driven by the question of how machines can better understand, generate, and reason with human language.
+BSc Computer Technology graduate with hands-on grounding in software engineering, computer networks, and systems troubleshooting now pushing further with a Master's in Computer Science, researching Natural Language Processing and synthetic data generation. I'm the kind of engineer who understands the full stack: from physical network layers and fault diagnosis up through application logic and AI pipelines. Driven by the question of how machines can better understand, generate, and reason with human language.
+
+---
+
+## What I bring
+
+| | |
+|---|---|
+| **NLP & AI Research** | Synthetic data generation, text pipelines, language models |
+| **Software Engineering** | End-to-end development, scalable systems, clean architecture |
+| **Web & Mobile Development** | Frontend & backend web apps, cross-platform mobile development |
+| **Computer Networks** | Network design, protocols, infrastructure, troubleshooting |
+| **Databases** | Relational & NoSQL databases, data modelling, querying |
+| **Operating Systems** | Linux & Windows administration, system configuration, fault diagnosis |
+| **Cloud Computing** | AWS / Azure / GCP — cloud infrastructure and deployment |
+| **Hardware & IoT** | Embedded systems, hardware interfacing, IoT prototyping |
+
+**Practical experience:** Internship · Academic projects · Freelance work
 
 ---
 
@@ -27,7 +44,7 @@ BSc Computer Technology graduate, now pursuing a Master's in Computer Science wi
 
 | | |
 |---|---|
-| Portfolio | [joel-max-eng.github.io/Joel_Otachi](https://joel-max-eng.github.io/Joel_Otachi/) |
+| Portfolio | [Click here !](https://joel-max-eng.github.io/Joel_Otachi/) |
 | LinkedIn | [Joel Otachi](https://www.linkedin.com/in/joel-otachi-79466738a) |
 | Email | i.geekytechie@gmail.com |
 
