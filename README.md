@@ -17,18 +17,18 @@ BSc Computer Technology graduate with hands-on grounding in software engineering
 
 ## What I bring
 
-| | |
-|---|---|
-| **NLP & AI Research** | Synthetic data generation, text pipelines, language models |
-| **Software Engineering** | End-to-end development, scalable systems, clean architecture |
-| **Web & Mobile Development** | Frontend & backend web apps, cross-platform mobile development |
-| **Computer Networks** | Network design, protocols, infrastructure, troubleshooting |
-| **Databases** | Relational & NoSQL databases, data modelling, querying |
-| **Operating Systems** | Linux & Windows administration, system configuration, fault diagnosis |
-| **Cloud Computing** | AWS / Azure / GCP — cloud infrastructure and deployment |
-| **Hardware & IoT** | Embedded systems, hardware interfacing, IoT prototyping |
+## What I bring
 
-**Practical experience:** Internship · Academic projects · Freelance work
+- **NLP & AI Research** — Synthetic data generation, text pipelines, language models
+- **Software Engineering** — End-to-end development, scalable systems, clean architecture
+- **Web & Mobile Development** — Frontend & backend web apps, cross-platform mobile development
+- **Computer Networks** — Network design, protocols, infrastructure, troubleshooting
+- **Databases** — Relational & NoSQL databases, data modelling, querying
+- **Operating Systems** — Linux & Windows administration, system configuration, fault diagnosis
+- **Cloud Computing** — AWS / Azure / GCP — cloud infrastructure and deployment
+- **Hardware & IoT** — Embedded systems, hardware interfacing, IoT prototyping
+
+**Practical experience:** Internship &nbsp;·&nbsp; Academic projects &nbsp;·&nbsp; Freelance work
 
 ---
 
