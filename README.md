@@ -1,4 +1,4 @@
-# Joel Otachi Nyanchoka
+#  Nyanchoka Joel Otachi
 
 **MSc Computer Science | NLP & Data Generation Researcher | Software Engineer**
 
