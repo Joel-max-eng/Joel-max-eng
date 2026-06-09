@@ -2,13 +2,7 @@
 
 **MSc Computer Science | NLP & Data Generation Researcher | Software Engineer**
 
-![Software Engineer](https://img.shields.io/badge/Software%20Engineering-Active-185FA5?style=flat-square)
-| **Full-Stack Development** | Active | ![Full-Stack Development](https://shields.io) |
-| **Network Engineering** | Active | ![Network Engineering](https://shields.io) |
-| **IT Infrastructure** | End-to-End | ![End-to-End ICT Support](https://shields.io) |
-| **Artificial Intelligence** | Research | ![NLP Research](https://shields.io) |
-![MSc Computer Science](https://img.shields.io/badge/MSc%20Computer%20Science-In%20Progress-6c63ff?style=flat-square)
-![Collaborations](https://img.shields.io/badge/Open%20to-Collaborations-BA7517?style=flat-square)
+![Software Engineer](https://img.shields.io/badge/Software%20Engineering-Active-185FA5?style=flat-square)![NLP Research](https://img.shields.io/badge/NLP%20%26%20Data%20Generation-Research-1D9E75?style=flat-square)![MSc Computer Science](https://img.shields.io/badge/MSc%20Computer%20Science-In%20Progress-6c63ff?style=flat-square)![Collaborations](https://img.shields.io/badge/Open%20to-Collaborations-BA7517?style=flat-square)
 
 
 ---
