@@ -2,16 +2,20 @@
 
 **MSc Computer Science | NLP & Data Generation Researcher | Software Engineer**
 
-![MSc Computer Science](https://img.shields.io/badge/MSc%20Computer%20Science-In%20Progress-6c63ff?style=flat-square)
-![NLP Research](https://img.shields.io/badge/NLP%20%26%20Data%20Generation-Research-1D9E75?style=flat-square)
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineering-Active-185FA5?style=flat-square)
+![Full-Stack Development](https://shields.io)
+![Network Engineering](https://shields.io)
+![End--to--End ICT Support](https://shields.io)
+![NLP Research](https://shields.io)
+![MSc Computer Science](https://img.shields.io/badge/MSc%20Computer%20Science-In%20Progress-6c63ff?style=flat-square)
 ![Collaborations](https://img.shields.io/badge/Open%20to-Collaborations-BA7517?style=flat-square)
+
 
 ---
 
 ## About me
 
-BSc Computer Technology graduate with hands-on grounding in software engineering, computer networks, and systems troubleshooting now pushing further with a Master's in Computer Science, researching Natural Language Processing and synthetic data generation. I'm the kind of engineer who understands the full stack: from physical network layers and fault diagnosis up through application logic and AI pipelines. Driven by the question of how machines can better understand, generate, and reason with human language.
+Result-driven Software Engineer and ICT Solutions Engineer with a proven track record of bridging advanced software architecture with robust network infrastructure. My expertise spans the entire technology stack—from operating as a full-stack developer to engineering physical network layers and delivering end-to-end enterprise ICT support services, alongside conducting cutting-edge research in Natural Language Processing (NLP). I specialize in designing, securing, and optimizing scalable applications from the code level down to low-level system hardware.
 
 ---
 
